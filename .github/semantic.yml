@@ -1,0 +1,20 @@
+# Always validate the PR title, and ignore the commits
+titleOnly: true
+# Allows a custom URL for the "Details" link (which appears next to the success/failure message from the app) to be specified
+targetUrl: https://github.com/jkingworking/release-demo#committing-changes
+# By default types specified in commitizen/conventional-commit-types is used.
+# See: https://github.com/commitizen/conventional-commit-types/blob/v3.0.0/index.json
+# You can override the valid types
+types:
+  - build
+  - chore
+  - ci
+  - docs
+  - feat
+  - fix
+  - perf
+  - refactor
+  - revert
+  - style
+  - task
+  - test
