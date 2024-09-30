@@ -4,9 +4,9 @@ release-type: node
 branches:
   - branch: main
     versioning-strategy: default
-  - branch: hotfix/1.0.1
+  - branch: hotfix/1.0.2
     versioning-strategy: service-pack
-  - branch: hotfix/1.1.0
+  - branch: hotfix/1.0.3
     versioning-strategy: service-pack
-  - branch: hotfix/1.1.1
+  - branch: hotfix/1.0.4
     versioning-strategy: service-pack
