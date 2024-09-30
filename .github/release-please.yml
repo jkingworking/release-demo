@@ -1,8 +1,7 @@
 handleGHRelease: true
 manifest: true
-release-type: simple
 branches:
-  - branch: main  # Your primary branch
+  - branch: main
     release-type: simple
   - branch: hotfix/1.0.1
     release-type: prerelease
