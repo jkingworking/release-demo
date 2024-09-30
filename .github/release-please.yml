@@ -1,3 +1,11 @@
-primaryBranch: main
 handleGHRelease: true
 manifest: true
+release-type: simple
+branches:
+  - branch: main  # Your primary branch
+    release-type: simple
+  - branch: hotfix/1.0.1
+    release-type: prerelease
+    prerelease: true
+    prerelease-label: hotfix
+In this configuration:
