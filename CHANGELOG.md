@@ -1,5 +1,20 @@
 # Changelog
 
+## [1.4.0](https://github.com/jkingworking/release-demo/compare/v1.3.0...v1.4.0) (2024-09-30)
+
+
+### Features
+
+* Adds ts index file ([ad5a7cd](https://github.com/jkingworking/release-demo/commit/ad5a7cdb08896be27ca4d0bc228a008aa4a4224d))
+* new update to readme ([17e1180](https://github.com/jkingworking/release-demo/commit/17e11802567f5dd35fd20b9e6485fc3b59604dba))
+
+
+### Bug Fixes
+
+* does a hot fix update mergeback ([#3](https://github.com/jkingworking/release-demo/issues/3)) ([#4](https://github.com/jkingworking/release-demo/issues/4)) ([9eba0ad](https://github.com/jkingworking/release-demo/commit/9eba0adbfedab88b675904ab2be16278eb0f4350))
+* resets hotfix release type ([fc7f663](https://github.com/jkingworking/release-demo/commit/fc7f663e6a941b938ca2baf24c09043a7db7c4fa))
+* sets release type to prerelease for hot fix branch ([0b3e0fd](https://github.com/jkingworking/release-demo/commit/0b3e0fd5b1c53ddcbdda98767e7f9e6f85c19df0))
+
 ## [1.3.0](https://github.com/jkingworking/release-demo/compare/v1.2.0...v1.3.0) (2024-09-30)
 
 
