@@ -3,6 +3,6 @@ manifest: true
 release-type: node
 branches:
   - branch: main
-    release-type: node
+    versioning-strategy: default
   - branch: hotfix/1.0.1
     versioning-strategy: service-pack
