@@ -4,7 +4,5 @@ branches:
   - branch: main
     release-type: simple
   - branch: hotfix/1.0.1
-    release-type: prerelease
-    prerelease: true
-    prerelease-label: hotfix
+    release-type: service-pack
 In this configuration:
