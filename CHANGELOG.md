@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.4-sp.1](https://github.com/jkingworking/release-demo/compare/junk-v1.0.4...junk-v1.0.4-sp.1) (2024-10-01)
+
+
+### Bug Fixes
+
+* Adds new thing ([#21](https://github.com/jkingworking/release-demo/issues/21)) ([4905002](https://github.com/jkingworking/release-demo/commit/49050023af381b638d5d0d26ca07e88492e34631))
+
 ## [1.0.4](https://github.com/jkingworking/release-demo/compare/junk-v1.0.3...junk-v1.0.4) (2024-10-01)
 
 
