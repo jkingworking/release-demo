@@ -1,5 +1,21 @@
 # Changelog
 
+## [1.0.2-sp.1](https://github.com/jkingworking/release-demo/compare/junk-v1.0.2...junk-v1.0.2-sp.1) (2024-10-01)
+
+
+### ⚠ BREAKING CHANGES
+
+* breaking fix change ([#14](https://github.com/jkingworking/release-demo/issues/14))
+
+### Bug Fixes
+
+* breaking fix change ([#14](https://github.com/jkingworking/release-demo/issues/14)) ([75681e7](https://github.com/jkingworking/release-demo/commit/75681e79edc8dfa55ee90517a4e57606cc594ff2))
+
+
+### Miscellaneous Chores
+
+* adds scripts needed to make service pack release ([066dc29](https://github.com/jkingworking/release-demo/commit/066dc29ff8ecc7a018e3d9956e51dd478cf0c036))
+
 ## [1.0.3](https://github.com/jkingworking/release-demo/compare/junk-v1.0.2...junk-v1.0.3) (2024-10-01)
 
 
