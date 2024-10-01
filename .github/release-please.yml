@@ -1,12 +1,4 @@
+primaryBranch: main
 handleGHRelease: true
 manifest: true
 release-type: node
-branches:
-  - branch: main
-    versioning-strategy: default
-  - branch: hotfix/1.0.1
-    versioning-strategy: service-pack
-  - branch: hotfix/1.1.0
-    versioning-strategy: service-pack
-  - branch: hotfix/1.1.1
-    versioning-strategy: service-pack

@@ -16,6 +16,14 @@
 
 * adds scripts needed to make service pack release ([066dc29](https://github.com/jkingworking/release-demo/commit/066dc29ff8ecc7a018e3d9956e51dd478cf0c036))
 
+## [1.0.3](https://github.com/jkingworking/release-demo/compare/junk-v1.0.2...junk-v1.0.3) (2024-10-01)
+
+
+### Bug Fixes
+
+* change watched branches ([92217be](https://github.com/jkingworking/release-demo/commit/92217be6519df4272e387f631b1a4e2f7434d67d))
+* clean up RP config ([2f163bb](https://github.com/jkingworking/release-demo/commit/2f163bb9df94fe779839e069811a826763b99a8f))
+
 ## [1.0.2](https://github.com/jkingworking/release-demo/compare/junk-v1.0.1...junk-v1.0.2) (2024-09-30)
 
 
