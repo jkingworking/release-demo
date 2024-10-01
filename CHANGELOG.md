@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/jkingworking/release-demo/compare/junk-v1.0.4...junk-v1.1.0) (2024-10-01)
+
+
+### Features
+
+* new update ([f3184de](https://github.com/jkingworking/release-demo/commit/f3184de7183189518438db765ad626d20ef666fa))
+
 ## [1.0.4](https://github.com/jkingworking/release-demo/compare/junk-v1.0.3...junk-v1.0.4) (2024-10-01)
 
 
