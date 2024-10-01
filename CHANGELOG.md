@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.4](https://github.com/jkingworking/release-demo/compare/junk-v1.0.3...junk-v1.0.4) (2024-10-01)
+
+
+### Miscellaneous Chores
+
+* Merge back from hotfix 1.0.2 ([#17](https://github.com/jkingworking/release-demo/issues/17)) ([27574c4](https://github.com/jkingworking/release-demo/commit/27574c41d45679f04736496da97f03cac2e50daa))
+
 ## [1.0.2-sp.1](https://github.com/jkingworking/release-demo/compare/junk-v1.0.2...junk-v1.0.2-sp.1) (2024-10-01)
 
 
