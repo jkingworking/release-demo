@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.0](https://github.com/jkingworking/release-demo/compare/junk-v1.0.2...junk-v2.0.0) (2024-10-01)
+
+
+### ⚠ BREAKING CHANGES
+
+* breaking fix change ([#14](https://github.com/jkingworking/release-demo/issues/14))
+
+### Bug Fixes
+
+* breaking fix change ([#14](https://github.com/jkingworking/release-demo/issues/14)) ([75681e7](https://github.com/jkingworking/release-demo/commit/75681e79edc8dfa55ee90517a4e57606cc594ff2))
+
 ## [1.0.2](https://github.com/jkingworking/release-demo/compare/junk-v1.0.1...junk-v1.0.2) (2024-09-30)
 
 
